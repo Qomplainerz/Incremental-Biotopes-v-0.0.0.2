@@ -1,6 +1,8 @@
 // Variables for game state
 let bladesOfGrassPlanted = 0;
+let oxygenRate = 180; // Micrograms per day
 let oxygenPerSecond = 0;
+let co2Rate = 180 // Milligrams per second
 let co2PerSecond = 0;
 let totalOxygenProduced = 0;
 let totalCO2Absorbed = 0;
